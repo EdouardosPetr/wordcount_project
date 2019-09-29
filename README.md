@@ -1,7 +1,7 @@
-_ _Word-Counting Website_ _
+_Word-Counting Website using Django_
 
 **A simple website to count the most frequently used words in a piece of text.**
 
-**Technologies used**
 
-_ _Django Framework for the Backend _
+
+
