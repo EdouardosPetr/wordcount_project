@@ -2,9 +2,11 @@ _Word-Counting Website using Django_
 
 **A simple website to count the most frequently used words in a piece of text.**
 
-_How to run_
+** To run the program **
 
-python manage.py runserver 
+- Git clone
+- cd into the folder
+- python manage.py runserver 
 
 
 
